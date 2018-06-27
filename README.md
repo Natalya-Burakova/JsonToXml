@@ -1,5 +1,6 @@
 # JsonToXml
 
+Программа преобразует файл с расширением .json в файл с расширением .xml
 
 Формат запуска: java -jar json.xml-1.0-SNAPSHOT.jar [file json] [file xml] [true|false]
 
